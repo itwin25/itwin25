@@ -1,95 +1,63 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:77c4d3,100:a3d8f4&height=250&section=header&text=Lee%20Suin&fontSize=60&fontColor=ffffff)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1C1C1C&center=true&vCenter=true&width=435&lines=🌸+Hello!+I'm+Suin!+🌸" alt="Typing SVG" />
-
+![reversal](https://capsule-render.vercel.app/api?type=speech&text=Hello,%20I'm%20Suin&color=0:A3CFFF,100:D3EEFF%&fontColor=ffffff)
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-
-<table style="border:none;">
+<table>
 <tr>
-<td width="100%">
-
-<h3>🧑‍💻 About Me</h3>
-
-<div style="border:2px solid #a3d8f4; border-radius:10px; padding:20px; background-color:#f9fcff; text-align:left;">
-<ul>
-  <li>🎓 <strong>전공</strong>: 산업공학</li>
-  <li>💻 프로그래밍에 흥미를 느껴 SSAFY 참여</li>
-  <li>🤝 다양한 협업 및 프로젝트 경험 보유</li>
-</ul>
-</div>
-
+<td align="center">
+<a href="https://solved.ac/booth">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=booth" alt="Solved.ac" />
+</a>
 </td>
 </tr>
+</table>
 
+<br>
+
+<table>
 <tr>
-<td>
+<td align="center">
+<h3>Tech Stack</h3>
 
-<h3>🧬 My Personality</h3>
+<p>
+<b>Frontend</b><br>
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+</p>
 
-<div style="border:2px solid #a3d8f4; border-radius:10px; padding:20px; background-color:#f9fcff; text-align:left;">
-<ul>
-  <li>🧩 <strong>MBTI</strong>: INTP (논리적인 사색가)</li>
-</ul>
-</div>
+<p>
+<b>Backend</b><br>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+</p>
 
+<p>
+<b>Database</b><br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+<p>
+<b>Tools</b><br>
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 </td>
 </tr>
-
-<tr>
-<td>
-
-<h3>🎮 Hobbies & Interests</h3>
-
-<div style="border:2px solid #a3d8f4; border-radius:10px; padding:20px; background-color:#f9fcff; text-align:left;">
-<ul>
-  <li>🎮 게임 & 🎬 영화 감상</li>
-  <li>🌱 다양한 관심 분야를 탐색 중</li>
-</ul>
+</table>
 </div>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<h3>💬 한마디</h3>
-
-<div style="border:2px dashed #a3d8f4; border-radius:10px; padding:15px; background-color:#ffffff; text-align:center;">
-✨ 앞으로 남은 한 학기 동안 잘 부탁드립니다! 😊 ✨
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<h3>🔧 Tech Stack</h3>
-
-<div align="center" style="margin-top:10px;">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
 <h3>📨 Contact Me</h3>
 
-<div align="center">
-  <a href="mailto:your_email@example.com">
+<div>
+  <a href="mailto:toto0887@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/itwin25">
     <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   </a>
 </div>
