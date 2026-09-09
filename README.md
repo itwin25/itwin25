@@ -11,15 +11,6 @@
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
-<a href="https://solved.ac/booth">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=booth" alt="Solved.ac" />
-</a>
-</td>
-</tr>
-</table>
 
 <br>
 
